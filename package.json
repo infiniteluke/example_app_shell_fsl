@@ -1,0 +1,7 @@
+{
+  "name": "example_app_shell_fsl",
+  "version": "1.0.0",
+  "description": "POC of example app being imported into a remix app",
+  "main": "index.js",
+  "license": "MIT"
+}
